@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Tối Giản",
+  "description": "Website đơn giản, hiện đại và tối giản sử dụng HTML, CSS và JavaScript thuần.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
